@@ -1,0 +1,3 @@
+# But if the store next in line is empty, the ship tries to fire the other store.
+GT4500,10,0,10,0
+TORPEDO,SINGLE # primary is empty, should have fired from the secondary store

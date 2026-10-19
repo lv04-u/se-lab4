@@ -1,0 +1,3 @@
+# tries to fire both of the torpedo stores.
+GT4500,10,0,10,0
+TORPEDO,ALL     # Should fire both stores
